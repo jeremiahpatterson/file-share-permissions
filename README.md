@@ -30,6 +30,7 @@ In this tutorial, we will configure file sharing and allow Read, Write, or Deny 
            Folder: “no-access”, Group: “Domain Admins”, “Permissions: “Read/Write”
 - Step 3 - From the Client as a non-admin user, test which folders you can access and modify.
 - Step 4 - From the Client as an admin user, test which folders you can access and modify.
+- Step 5 - Task Complete
 
 <h2>Actions and Observations</h2>
 
